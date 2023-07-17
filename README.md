@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <img src="rubiks1.0_demo.gif" width="250" title="hover text">
+  <img src="rubiks_cube/rubiks1.0_demo.gif" width="250" title="hover text">
 </p>
 
 <!--
