@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**lightningcoder07/lightningcoder07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="rubiks1.0_demo.gif" width="250" title="hover text">
+</p>
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
