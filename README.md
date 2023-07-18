@@ -40,18 +40,6 @@
 <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" />
 <img alt="Kaggle" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width="50" title="Kaggle" />
 
-<div align="left">
-  <h2>Other</h2>
-</div>
-
-<img alt="Latex" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="50" title="Latex" /><img alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50" title="Unity" />
-
-<div align="left">
-  <h2>Language Distribution</h2>
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightningcoder07&layout=compact)
-
 <!--
 
 - 🔭 I’m currently working on ...
