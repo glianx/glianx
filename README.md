@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://github.com/glianx/rubiks_cube/blob/main/rubiks2.0_demo2.gif" height="200" title="hover text">
-  <img src="https://github.com/glianx/snake/blob/main/snake_demo.gif" height="200" title="hover text">
+  <img src="snake_square.gif" height="200" title="hover text">
   <img src="https://github.com/glianx/mazes/blob/main/dfs_a*.gif" height="200" title="hover text">
   <img src="https://github.com/glianx/games/blob/main/minesweeper3.gif" height="200" title="hover text"> 
   <img src="https://github.com/glianx/games/blob/main/15puzzle.gif" height="200" title="hover text">
