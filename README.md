@@ -1,4 +1,4 @@
-### Hi there 👋
+### Project Gallery
 
 <p align="left">
   <img src="https://github.com/lightningcoder07/rubiks_cube/blob/main/rubiks2.0_demo2.gif" height="200" title="hover text">
@@ -26,3 +26,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Gordon Liang, and I love to code.
