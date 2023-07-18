@@ -1,8 +1,19 @@
 ### Hi there 👋
 
 <p align="left">
-  <img src="rubiks_cube/rubiks1.0_demo.gif" width="250" title="hover text">
+  <img src="https://github.com/lightningcoder07/rubiks_cube/blob/main/rubiks2.0_demo2.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/snake/blob/main/snake_demo.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/mazes/blob/main/dfs_a*.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/games/blob/main/minesweeper3.gif" height="200" title="hover text"> 
+  <img src="https://github.com/lightningcoder07/games/blob/main/15puzzle.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/mazes/blob/main/binary_game.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/cell_automata/blob/main/life_demo2.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/rubiks_cube/blob/main/rubiks1.0_demo.gif" height="200" title="hover text">
+  <img src="https://github.com/lightningcoder07/ml_qlearning/blob/main/qlearning.gif" height="200" title="hover text">    
+  <img src="https://github.com/lightningcoder07/rubiks_cube/blob/main/rubiks3.0_demo3.gif" height="200" title="hover text">
+
 </p>
+
 
 <!--
 
