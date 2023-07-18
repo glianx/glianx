@@ -1,4 +1,4 @@
-<div align="middle">
+<div align="left">
   <h1>Project Gallery</h1>
 </div>
 
@@ -16,14 +16,14 @@
 
 </p>
 
-<div align="middle">
+<div align="left">
   <h2>Languages</h2>
 </div>
 
 <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" /><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java" />
 <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
 
-<div align="middle">
+<div align="left">
   <h2>Web Development</h2>
 </div>
 
@@ -32,7 +32,7 @@
 <img alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind" />
 <img alt="WordPress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50" title="WordPress" />
 
-<div align="middle">
+<div align="left">
   <h2>Machine Learning</h2>
 </div>
 
@@ -40,13 +40,17 @@
 <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" />
 <img alt="Kaggle" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width="50" title="Kaggle" />
 
-<div align="middle">
+<div align="left">
   <h2>Other</h2>
 </div>
 
 <img alt="Latex" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="50" title="Latex" /><img alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50" title="Unity" />
 
+<div align="left">
+  <h2>Language Distribution</h2>
+</div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightningcoder07&layout=compact)
 
 <!--
 
