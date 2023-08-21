@@ -27,7 +27,9 @@
   <h2>Web Development</h2>
 </div>
 
-<img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" /><img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
+<img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="50" title="Svelte" /><img alt="SvelteKit" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine.cb0f166b.png" width="50" title="SvelteKit" />
+<img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" />
+<img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
 <img alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind" />
 <img alt="WordPress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50" title="WordPress" />
 
