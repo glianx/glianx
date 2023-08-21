@@ -27,10 +27,13 @@
   <h2>Web Development</h2>
 </div>
 
-<img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="50" title="Svelte" /><img alt="SvelteKit" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine.cb0f166b.png" width="50" title="SvelteKit" />
+<img alt="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="50" title="Svelte" /><img alt="SvelteKit" src="/sveltekit.png" width="50" title="SvelteKit" />
 <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" />
 <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
+<img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
 <img alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind" />
+<img alt="Algolia" src="/algolia.webp" width="50" title="Algolia" />
+<img alt="Cloudflare" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/1024px-Cloudflare_Logo.png" width="50" title="Cloudflare" />
 <img alt="WordPress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50" title="WordPress" />
 
 <div align="left">
@@ -39,7 +42,6 @@
 
 <img alt="Tensorflow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="Tensorflow" /><img alt="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" title="Numpy" />
 <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" />
-<img alt="Kaggle" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width="50" title="Kaggle" />
 
 <!--
 
